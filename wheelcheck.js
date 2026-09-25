@@ -1,1 +1,0 @@
- let r="ICG didn't beat that!";let levels=sheet.classic;if(q.at(0)==="p"){levels=sheet.platformer;q= +(q.slice(1))};if(q in levels){level = levels[q];r="ICG beat "+level.sheet.name+ "!";if(level.aredl!=null){r += " It's placed at #" + level.aredl.position + "!";}if(level.sheet.COMPLETION!=null){r+=" Link: "+level.sheet.COMPLETION;}}r;
