@@ -1,7 +1,5 @@
-{
-  "code": "
+"
     let variable = 3;
     variable += 2;
     variable;
-  "
-}
+"
